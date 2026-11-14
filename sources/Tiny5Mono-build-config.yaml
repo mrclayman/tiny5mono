@@ -1311,59 +1311,47 @@ axis_maps:
 
 # Define static font instances and their axis values.
 variable_instances:
+  "Light":
+    "wght": 260
+    "ROND": 77
+    "wdth": 85
+    "BLED": 12
+  "Light Italic":
+    "wght": 260
+    "ital": 1
+    "ROND": 77
+    "wdth": 85
+    "BLED": 12
   "Regular":
-    "wght": 400
-  "Bold":
-    "wght": 700
+    "wght": 300
+    "ROND": 77
+    "wdth": 85
+    "BLED": 12
   "Italic":
-    "wght": 400
+    "wght": 300
     "ital": 1
+    "ROND": 77
+    "wdth": 85
+    "BLED": 12
+  "Medium":
+    "wght": 360
+    "ROND": 77
+    "wdth": 85
+    "BLED": 12
+  "Medium Italic":
+    "wght": 360
+    "ital": 1
+    "ROND": 77
+    "wdth": 85
+    "BLED": 12
+  "Bold":
+    "wght": 420
+    "ROND": 77
+    "wdth": 85
+    "BLED": 12
   "Bold Italic":
-    "wght": 700
+    "wght": 420
     "ital": 1
-  "LCD":
-    "wght": 350
-  "LCD Bold":
-    "wght": 650
-  "LCD Italic":
-    "wght": 350
-    "ital": 1
-  "LCD Bold Italic":
-    "wght": 650
-    "ital": 1
-  "CRT":
-    "wght": 300
-    "ROND": 100
-    "BLED": 100
-  "CRT Bold":
-    "wght": 600
-    "ROND": 100
-    "BLED": 100
-  "CRT Italic":
-    "wght": 300
-    "ital": 1
-    "ROND": 100
-    "BLED": 100
-  "CRT Bold Italic":
-    "wght": 600
-    "ital": 1
-    "ROND": 100
-    "BLED": 100
-  "Matrix":
-    "wght": 350
-    "ROND": 100
-    "JITT": 50
-  "Matrix Bold":
-    "wght": 650
-    "ROND": 100
-    "JITT": 50
-  "Matrix Italic":
-    "wght": 350
-    "ital": 1
-    "ROND": 100
-    "JITT": 50
-  "Matrix Bold Italic":
-    "wght": 650
-    "ital": 1
-    "ROND": 100
-    "JITT": 50
+    "ROND": 77
+    "wdth": 85
+    "BLED": 12
