@@ -1313,45 +1313,45 @@ axis_maps:
 variable_instances:
   "Light":
     "wght": 260
-    "ROND": 77
+    "ROND": 55
     "wdth": 85
-    "BLED": 12
+    "BLED": 20
   "Light Italic":
     "wght": 260
     "ital": 1
-    "ROND": 77
+    "ROND": 55
     "wdth": 85
-    "BLED": 12
+    "BLED": 20
   "Regular":
     "wght": 300
-    "ROND": 77
+    "ROND": 55
     "wdth": 85
-    "BLED": 12
+    "BLED": 20
   "Italic":
     "wght": 300
     "ital": 1
-    "ROND": 77
+    "ROND": 55
     "wdth": 85
-    "BLED": 12
+    "BLED": 20
   "Medium":
     "wght": 360
-    "ROND": 77
+    "ROND": 55
     "wdth": 85
-    "BLED": 12
+    "BLED": 20
   "Medium Italic":
     "wght": 360
     "ital": 1
-    "ROND": 77
+    "ROND": 55
     "wdth": 85
-    "BLED": 12
+    "BLED": 20
   "Bold":
     "wght": 420
-    "ROND": 77
+    "ROND": 55
     "wdth": 85
-    "BLED": 12
+    "BLED": 20
   "Bold Italic":
     "wght": 420
     "ital": 1
-    "ROND": 77
+    "ROND": 55
     "wdth": 85
-    "BLED": 12
+    "BLED": 20
