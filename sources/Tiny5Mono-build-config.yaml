@@ -1334,34 +1334,34 @@ variable_instances:
     "wdth": 85
     "BLED": 20
   "Regular":
-    "wght": 350
+    "wght": 340
     "ROND": 55
     "wdth": 85
     "BLED": 20
   "Italic":
-    "wght": 350
+    "wght": 340
     "ital": 1
     "ROND": 55
     "wdth": 85
     "BLED": 20
   "Medium":
-    "wght": 390
+    "wght": 380
     "ROND": 55
     "wdth": 85
     "BLED": 20
   "Medium Italic":
-    "wght": 390
+    "wght": 380
     "ital": 1
     "ROND": 55
     "wdth": 85
     "BLED": 20
   "Bold":
-    "wght": 430
+    "wght": 420
     "ROND": 55
     "wdth": 85
     "BLED": 20
   "Bold Italic":
-    "wght": 430
+    "wght": 420
     "ital": 1
     "ROND": 55
     "wdth": 85
